@@ -1,4 +1,4 @@
-package hr.franmatesic
+package template
 
 import processing.core.PApplet
 import processing.core.PConstants
