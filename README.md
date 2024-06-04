@@ -1,4 +1,4 @@
-# Java Processing 4 template
+# Kotlin Processing 4 template
 
 This project is a template for using [Processing](https://processing.org/) with Intellij IDEA.
 
